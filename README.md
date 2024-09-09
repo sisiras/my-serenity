@@ -30,3 +30,4 @@ Both of the commands provided above will produce a Serenity test report in the `
 
 ## Tailoring the project to your needs
 
+ 
